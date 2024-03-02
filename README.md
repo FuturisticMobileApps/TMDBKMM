@@ -3,6 +3,11 @@
 Created during a KMM workshop organized by GDG, this app smoothly retrieves movie details from the TMDb database. Powered by **Kotlin Multiplatform Mobile (KMM)**, it ensures consistent functionality across **Android** and **iOS**. 
 
 
+## Build with
+Kotlin,
+Swift UI,
+Ktor, KMM-ViewModel
+
 ## Demo
 
 ![KMMoutput](https://github.com/FuturisticMobileApps/TMDBKMM/assets/111674274/4e919847-a126-49ed-a240-dfcfbf075da6)
