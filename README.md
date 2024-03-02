@@ -5,6 +5,7 @@ Created during a KMM workshop organized by GDG, this app smoothly retrieves movi
 
 ## Build with
 Kotlin,
+Jetpack Compose
 Swift UI,
 Ktor, KMM-ViewModel
 
