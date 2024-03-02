@@ -5,7 +5,7 @@ Created during a KMM workshop organized by GDG, this app smoothly retrieves movi
 
 ## Demo
 
-https://github.com/FuturisticMobileApps/TMDBKMM/assets/111674274/475b41a0-5715-468a-b76f-f050402b824c
+![KMMoutput](https://github.com/FuturisticMobileApps/TMDBKMM/assets/111674274/4e919847-a126-49ed-a240-dfcfbf075da6)
 
 ## Documentation
 
